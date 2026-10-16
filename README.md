@@ -64,6 +64,13 @@ dotnet test "Part 2/RaceDay.API.slnx" --configuration Release
 
 The GitHub Actions workflow automatically builds the project and runs the tests when changes are pushed to the `main` branch or a pull request targets `main`.
 
+## User Roles
+
+- **Participant:** Can register as a participant and use the API's participant-related features, including race enrolments.
+- **Organiser:** Can register as an organiser and use the API's organiser-related features for managing race events.
+
+Access to endpoints depends on the authentication and authorisation rules implemented in the API.
+
 
 ## Successful Build and Tests
 
