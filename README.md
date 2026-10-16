@@ -64,6 +64,14 @@ dotnet test "Part 2/RaceDay.API.slnx" --configuration Release
 
 The GitHub Actions workflow automatically builds the project and runs the tests when changes are pushed to the `main` branch or a pull request targets `main`.
 
+
+## Successful Build and Tests
+
+The GitHub Actions workflow successfully builds the RaceDay API project and runs the automated tests.
+
+![Successful GitHub Actions build](github-actions-success.png)
+
+
 ## Demonstration Video
 
 [Watch the RaceDay API demonstration on YouTube](https://youtu.be/-y-IOMPq_Ms)
