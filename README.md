@@ -69,7 +69,7 @@ The GitHub Actions workflow automatically builds the project and runs the tests 
 
 The GitHub Actions workflow successfully builds the RaceDay API project and runs the automated tests.
 
-![Successful GitHub Actions build](github-actions-success.png)
+![Successful GitHub Actions build](https://github.com/Zukay2006/Race---Day-Part-2/blob/main/Screenshot%202026-10-16%20231549.png)
 
 
 ## Demonstration Video
